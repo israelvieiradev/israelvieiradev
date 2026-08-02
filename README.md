@@ -1,7 +1,7 @@
 # Israel Vieira
 **`Desenvolvedor FullStack`**
 
-Me chamo Israel Alexandre Vieira, tenho 29 anos, sou natural de Santa Catarina e concluí o curso de desenvolvedor FullStack pelo SENAI SC. Atualmente estou buscando uma primeira oportunidade de entrar no mercado de tecnologia pois é algo que eu acredito que faz parte da minha essência e que pode me proporcionar um meio de ajudar as pessoas.
+Me chamo Israel Alexandre Vieira, tenho 29 anos, sou natural de Santa Catarina e concluí o curso de desenvolvedor FullStack pelo SENAI SC. Atualmente estou buscando uma primeira oportunidade de entrar no mercado de tecnologia.
 
 ### 🤖 Linguagens e Tecnologias
 
