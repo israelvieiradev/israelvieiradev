@@ -21,8 +21,6 @@ Me chamo Israel Alexandre Vieira, tenho 29 anos, sou natural de Santa Catarina e
    <img align="center" alt="Israel-Wordpress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg">
    
 </div>
-          
-##
 
 ### Contato
 
@@ -30,7 +28,7 @@ Me chamo Israel Alexandre Vieira, tenho 29 anos, sou natural de Santa Catarina e
    <a href="https://wa.me/5547992263325" target="_blank">
       <img src="https://img.shields.io/badge/whatsapp-green?logo=whatsapp">
    </a>
-   <a href="mailto:israviei.drv@gmail.com" target="_blank">
+   <a href="mailto:israviei.dev@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/gmail-red?logo=gmail">
    </a>
 </div>
