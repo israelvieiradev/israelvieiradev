@@ -24,8 +24,13 @@ Me chamo Israel Alexandre Vieira, tenho 29 anos, sou natural de Santa Catarina e
           
 ##
 
+### Contato
+
 <div>
-   <a href="https://wa.me/5547992263325">
+   <a href="https://wa.me/5547992263325" target="_blank">
       <img src="https://img.shields.io/badge/whatsapp-green?logo=whatsapp">
+   </a>
+   <a target="_blank">
+      <img src="https://img.shields.io/badge/g-mail-red?logo=gmail">
    </a>
 </div>
